@@ -6,7 +6,7 @@ namespace Tareas
     {
         static void Main(string[] args)
         {
-            milestone2 ejer = new milestone2();
+            milestone3 ejer = new milestone3();
             ejer.Variables();
         }
     }
